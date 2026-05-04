@@ -5,6 +5,25 @@ NEU Surface Defect Database 기반 MobileNetV2 딥러닝 모델로 강판 결함
 AGV 5대(EDF 스케줄링)와 지게차 2대가 컨베이어→비전검사→분류→창고→출하까지 완전 자동화 파이프라인을 구성합니다.
 
 ---
+## Demo Video
+
+<p align="center">
+  <a href="https://youtu.be/8njIvw6zAc8" target="_blank">
+    <img src="https://img.youtube.com/vi/8njIvw6zAc8/hqdefault.jpg" alt="Smart Factory Demo Video" width="700"/>
+  </a>
+</p>
+
+<p align="center">
+  <b>Click the thumbnail above to watch the demo video.</b>
+</p>
+
+<br/>
+
+## Smart Factory Pipeline
+
+<p align="center">
+  <img src="fig/smart_factory_pipeline_wide.svg" alt="Smart Factory Pipeline" width="900"/>
+</p>
 
 ## 📌 1. Project Overview
 
